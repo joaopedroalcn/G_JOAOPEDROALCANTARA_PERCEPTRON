@@ -38,7 +38,7 @@ O projeto pode ser executado em um ambiente Conda. Use o arquivo `environment.ym
 
 ```bash
 conda env create -f environment.yml
-conda activate perceptron-manual
+conda activate perceptron
 ```
 
 
